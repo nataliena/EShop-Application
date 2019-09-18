@@ -1,0 +1,12 @@
+h5.nameEllipsis{
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+.hide {
+    display: none;
+}
+
+i{
+color:red
+} 
